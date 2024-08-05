@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 今年汇总 ✨
 
-<img align="" height="181px" src="https://github-readme-stats.vercel.app/api?username=boyan-uni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="181px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyan-uni&hide_title=true&hide_border=true&theme=radical&locale=cn" />
+<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=boyan-uni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=cn" /><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyan-uni&hide_title=true&hide_border=true&theme=radical&locale=cn" />
 
 
 [![BOYAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan-uni&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
