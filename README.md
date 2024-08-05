@@ -2,7 +2,7 @@
 ## ✨ Hi~ Here is BOYAN-UNI ! 🌸 (李博妍)
 
 ### Education experiences
-- [2023.9 - til now] &nbsp;&nbsp; 🇬🇧 Newcastle University - (MSc) Advanced Computer Science (Cloud Computing)
+- [2023.9 - til now] &nbsp; 🇬🇧 Newcastle University - (MSc) Advanced Computer Science (Cloud Computing)
 - [2015.9 - 2020.7] &nbsp; 🇨🇳 Beijing University of Posts and Telecommunications - Software Engineering
 
 
