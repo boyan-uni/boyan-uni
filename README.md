@@ -1,5 +1,5 @@
 
-## ✨ Hi~ Here is BOYAN-UNI ! 🌸 (李博妍)
+## ✨ Hi~ Here is BOYAN-UNI ! 🌸
 
 ### Education experiences
 - [2023.9 - til now] &nbsp; 🇬🇧 Newcastle University - (MSc) Advanced Computer Science (Cloud Computing)
@@ -17,7 +17,7 @@
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=boyan-uni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=en" /><img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyan-uni&hide_title=true&hide_border=true&theme=radical&locale=en" />
 
 
-[![BOYAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan-uni&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![BOYAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan-uni&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 
