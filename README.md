@@ -11,9 +11,10 @@
 - 💬 技术文档：<a href="https://github.com/boyan-uni/BOYAN-Personal-Knowledge-Management-Document-as-Code-Repository" target="_blank"> 知识库 DAC 文档化管理 </a>
 
 
-### Works in NCL - Project Reports
+### Works in NCL - Projects & Reports
 - ☁️ Cloud Computing, 云计算: 
-- 🕸️ Internet of Things, 物联网: 
+- 🕸️ Internet of Things, 物联网:
+- ...
 
 ### Java Spring Project
 - 📄 VerifiedCV｜基于区块链(私有链)的高等教育学生可信成就记录系统（电子简历验证）:
