@@ -16,7 +16,7 @@
 - 🕸️ Internet of Things:
 - 🏨 Enterprise Middleware:
 - ⚙️ Machine Learning:
-- ... BlockChain Group Work & Engineering for AI & Distributed Algorithm ...
+- & BlockChain Group Work & Engineering for AI & Distributed Algorithm ...
 
 
 ### Java Spring Project - Develop By Myself
