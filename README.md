@@ -12,9 +12,11 @@
 
 
 ### Works in NCL - Project & Report
-- ☁️ Cloud Computing｜Project & Report:
-- 🕸️ Internet of Things｜Project & Report:
-- ... BlockChain Group Work & Engineering for AI & Enterprise Middleware & Distributed Algorithm & Machine Learning
+- ☁️ Cloud Computing:
+- 🕸️ Internet of Things:
+- 🏨 Enterprise Middleware:
+- ⚙️ Machine Learning:
+- ... BlockChain Group Work & Engineering for AI & Distributed Algorithm ...
 
 
 ### Java Spring Project - Develop By Myself
