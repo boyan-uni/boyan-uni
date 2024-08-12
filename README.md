@@ -8,7 +8,7 @@
 
 ### Profile
 - 🙋🏻‍♀️ CV Link：Re-Writing
-- 💬 技术文档：<a href="https://github.com/boyan-uni/BOYAN-Personal-Knowledge-Management-Document-as-Code-Repository" target="_blank"> 知识库 DAC 文档化管理 </a>
+- 💬 技术文档：<a href="https://github.com/boyan-uni/BOYAN-Personal-Knowledge-Management-Document-as-Code-Repository" target="_blank"> 知识库 DAC 文档化管理 Repository Link </a>
 
 
 ### Works in NCL - Projects & Reports
