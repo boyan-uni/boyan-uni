@@ -2,21 +2,22 @@
 ## ✨ Hi~ Here is BOYAN-UNI ! 🌸
 
 ### Education experiences
-- [2023.9 - til now] &nbsp; 🇬🇧 Newcastle University - (MSc) Advanced Computer Science (Cloud Computing)
-- [2015.9 - 2020.7] &nbsp; 🇨🇳 Beijing University of Posts and Telecommunications - Software Engineering
+- [2023.09 - 2024.12] &nbsp; 🇬🇧 Newcastle University - (MSc) Advanced Computer Science (Cloud Computing)
+- [2015.09 - 2020.07] &nbsp; 🇨🇳 Beijing University of Posts and Telecommunications - Software Engineering
 
 
 ### Profile
 - 🙋🏻‍♀️ CV Link：Re-Writing
-- 💬 技术文档：<a href="https://github.com/boyan-uni/BOYAN-Personal-Knowledge-Management-Document-as-Code-Repository" target="_blank"> 知识库 DAC 文档化管理 Repository Link </a>
+- 💬 技术文档仓库：<a href="https://github.com/boyan-uni/BOYAN-Personal-Knowledge-Management-Document-as-Code-Repository" target="_blank"> BOYAN-Personal-Knowledge-Management-Document-as-Code-Repository </a>
 
 
-### Works in NCL - Projects & Reports
-- ☁️ Cloud Computing, 云计算: 
-- 🕸️ Internet of Things, 物联网:
-- ...
+### Works in NCL - Project & Report
+- ☁️ Cloud Computing｜Project & Report:
+- 🕸️ Internet of Things｜Project & Report:
+- ... BlockChain Group Work & Engineering for AI & Enterprise Middleware & Distributed Algorithm & Machine Learning
 
-### Java Spring Project
+
+### Java Spring Project - Develop By Myself
 - 📄 VerifiedCV｜基于区块链(私有链)的高等教育学生可信成就记录系统（电子简历验证）:
 - 🌌 User-Uni｜一站式用户中心:
 
