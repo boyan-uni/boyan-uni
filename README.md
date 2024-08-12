@@ -14,7 +14,7 @@
 
 ### ✨ 2 0 2 4
 
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=boyan-uni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=en" /><img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyan-uni&hide_title=true&hide_border=true&theme=radical&locale=en" />
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=boyan-uni&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical&locale=en" /><img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boyan-uni&hide_title=true&hide_border=true&theme=radical&locale=en&langs_count=8" />
 
 
 <!-- [![BOYAN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=boyan-uni&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
